@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:10.04.24
+## Date:28.04.24
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -160,8 +160,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 ![WhatsApp Image 2024-05-10 at 07 05 53_cb291c72](https://github.com/Thamizhjo/cover/assets/123891476/af5bf310-0cfe-43c6-a158-40619635a135)
-![WhatsApp Image 2024-05-10 at 08 29 44_5d6d2379](https://github.com/Thamizhjo/cover/assets/123891476/6d727548-cacd-4ce4-b9d2-e5bad1f769a5)
-
+![WhatsApp Image 2024-05-10 at 14 37 21_f82587b7](https://github.com/Thamizhjo/cover/assets/123891476/ebf89d4a-bf69-4883-baf4-b726c35ffe84)
 
 
 ## RESULT:
